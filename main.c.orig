@@ -13,11 +13,16 @@ Initial Security()
 feature1()
 {
 //feature1 added
-=======
+}
 securitypatch()
 {
 //new security patch added
->>>>>>> master
+
+=======
+feature2()
+{
+//feature2 added
+>>>>>>> f2
 }
 
 

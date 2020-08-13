@@ -9,6 +9,7 @@ Initial Security()
 {
  //Sample Code
 }
+
 feature1()
 {
 //feature1 added
@@ -16,6 +17,11 @@ feature1()
 securitypatch()
 {
 //new security patch added
+
+}
+feature2()
+{
+//feature2 added
 
 }
 
